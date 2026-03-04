@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:iron_sword",
+    { "id": "aether:lightning_sword", "required": false },
+    { "id": "aether:holy_sword", "required": false },
+    { "id": "aether:vampire_blade", "required": false },
+    { "id": "aether:flaming_sword", "required": false },
+    { "id": "aether:shield_of_repulsion", "required": false },
+    { "id": "shieldexp:iron_shield", "required": false },
+    { "id": "stellaris:steel_sword", "required": false },
+    { "id": "stellaris:space_suit_helmet", "required": false },
+    { "id": "aether:zanite_chestplate", "required": false },
+    { "id": "immersive_armors:steampunk_chestplate", "required": false },
+    { "id": "stellaris:space_suit_boots", "required": false }
+  ]
+}

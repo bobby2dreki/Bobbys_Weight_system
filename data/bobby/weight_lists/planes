@@ -1,0 +1,11 @@
+immersive_aircraft:airship 50
+immersive_aircraft:quadrocopter 50
+immersive_aircraft:gyrodyne 50
+immersive_aircraft:cargo_airship 100
+immersive_aircraft:biplane 100
+more_engines:sport_biplane 100
+immersive_aircraft:bamboo_hopper 300
+immersive_aircraft:warship 300
+man_of_many_planes:scarlet_biplane 300
+man_of_many_planes:economy_plane 300
+more_engines:commercial_hopper 300

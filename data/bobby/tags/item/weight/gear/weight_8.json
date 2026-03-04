@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:netherite_leggings",
+    "minecraft:diamond_sword",
+    "minecraft:mace",
+    { "id": "deep_underground:cerulium_helmet",       "required": false },
+    { "id": "deep_underground:viridium_leggings",      "required": false },
+    { "id": "adventurez:gilded_netherite_leggings",    "required": false },
+    { "id": "aether:obsidian_leggings",               "required": false },
+    { "id": "immersive_armors:heavy_leggings",         "required": false }
+  ]
+}

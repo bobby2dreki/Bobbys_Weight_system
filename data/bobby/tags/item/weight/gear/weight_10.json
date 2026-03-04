@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:diamond_chestplate",
+    "minecraft:netherite_sword",
+    { "id": "deep_underground:viridium_sword", "required": false },
+    { "id": "stellaris:jet_suit_chestplate", "required": false },
+    { "id": "deep_underground:cerulium_leggings", "required": false }
+  ]
+}

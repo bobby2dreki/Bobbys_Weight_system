@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:iron_helmet",
+    "minecraft:golden_leggings",
+    "minecraft:iron_boots",
+    "minecraft:chainmail_chestplate",
+    { "id": "aether:diamond_gloves", "required": false },
+    { "id": "aether:gravitite_sword", "required": false },
+    { "id": "shieldexp:golden_shield", "required": false },
+    { "id": "aether:neptune_helmet", "required": false },
+    { "id": "immersive_armors:warrior_helmet", "required": false },
+    { "id": "immersive_armors:divine_helmet", "required": false },
+    { "id": "immersive_armors:prismarine_helmet", "required": false },
+    { "id": "aether:gravitite_chestplate", "required": false },
+    { "id": "aether:valkyrie_chestplate", "required": false },
+    { "id": "aether:phoenix_chestplate", "required": false },
+    { "id": "immersive_armors:wooden_chestplate", "required": false },
+    { "id": "the_bumblezone:honey_bee_leggings_2", "required": false },
+    { "id": "the_bumblezone:honey_bee_leggings_1", "required": false },
+    { "id": "aether:zanite_leggings", "required": false },
+    { "id": "immersive_armors:steampunk_leggings", "required": false },
+    { "id": "immersive_armors:divine_boots", "required": false }
+  ]
+}

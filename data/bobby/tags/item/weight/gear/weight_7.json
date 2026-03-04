@@ -1,0 +1,7 @@
+{
+  "values": [
+    "minecraft:trident",
+    { "id": "shieldexp:diamond_shield", "required": false },
+    { "id": "stellaris:space_suit_leggings", "required": false }
+  ]
+}

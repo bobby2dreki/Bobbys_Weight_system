@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:diamond_helmet",
+    "minecraft:iron_leggings",
+    "minecraft:diamond_boots",
+    "minecraft:golden_sword",
+    { "id": "aether:netherite_gloves", "required": false },
+    { "id": "aether:obsidian_gloves", "required": false },
+    { "id": "aether:zanite_sword", "required": false },
+    { "id": "aether:valkyrie_lance", "required": false },
+    { "id": "the_bumblezone:honey_crystal_shield", "required": false },
+    { "id": "tide:blazing_swordfish", "required": false },
+    { "id": "tide:swordfish", "required": false },
+    { "id": "stellaris:jet_suit_helmet", "required": false },
+    { "id": "the_bumblezone:bumble_bee_chestplate_1", "required": false },
+    { "id": "the_bumblezone:bumble_bee_chestplate_2", "required": false },
+    { "id": "the_bumblezone:bumble_bee_chestplate_trans_1", "required": false },
+    { "id": "the_bumblezone:bumble_bee_chestplate_trans_2", "required": false },
+    { "id": "aether:neptune_leggings", "required": false },
+    { "id": "immersive_armors:warrior_leggings", "required": false },
+    { "id": "immersive_armors:divine_leggings", "required": false },
+    { "id": "immersive_armors:prismarine_leggings", "required": false },
+    { "id": "stellaris:jet_suit_boots", "required": false }
+  ]
+}

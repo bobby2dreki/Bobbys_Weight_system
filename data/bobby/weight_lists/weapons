@@ -1,0 +1,73 @@
+# Swords
+minecraft:wooden_sword weight: 2
+aether:candy_cane_sword 2
+aether:skyroot_sword 2
+aether:lightning_knife 2
+aether:pig_slayer 2
+aether:gravitite_sword 3
+minecraft:golden_sword weight: 4
+tide:blazing_swordfish 4
+tide:swordfish 4
+aether:zanite_sword 4
+aether:lightning_sword 5
+aether:holy_sword 5
+aether:vampire_blade 5
+aether:flaming_sword 5
+minecraft:iron_sword weight: 5
+stellaris:steel_sword 5
+minecraft:stone_sword weight: 6
+aether:holystone_sword 6
+minecraft:diamond_sword weight: 8
+minecraft:netherite_sword weight: 10
+deep_underground:viridium_sword: 10
+deep_underground:cerulium_sword 12
+deep_underground:depthbound_steel_sword 15
+
+# Lances
+aether:valkyrie_lance 4
+
+# Maces
+minecraft:mace: 8
+
+# Hammers
+aether:hammer_of_kingbdogz 6
+
+# Tridents
+minecraft:trident: 7
+
+# Staffs
+aether:cloud_staff 0
+
+# Bows
+minecraft:bow 1
+aether:phoenix_bow 2
+
+# Crossbows
+minecraft:crossbow 2
+
+# Shields
+shieldexp:wooden_shield 2
+shieldexp:golden_shield 3
+the_bumblezone:honey_crystal_shield 4
+shieldexp:iron_shield 5
+minecraft:shield 5
+aether:shield_of_repulsion 5
+shieldexp:diamond_shield 7
+shieldexp:netherite_shield 9
+
+# Gloves
+aether:leather_gloves 0
+aether:gravitite_gloves 0
+aether:valkyrie_gloves 0
+aether:phoenix_gloves 0
+aether:chainmail_gloves 1
+aether:zanite_gloves 1
+aether:golden_gloves 1
+aether:iron_gloves 2
+aether:neptune_gloves 2
+aether:diamond_gloves 3
+aether:netherite_gloves 4
+aether:obsidian_gloves 4
+
+
+
