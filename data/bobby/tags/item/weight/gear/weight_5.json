@@ -16,6 +16,12 @@
     { "id": "stellaris:space_suit_helmet", "required": false },
     { "id": "aether:zanite_chestplate", "required": false },
     { "id": "immersive_armors:steampunk_chestplate", "required": false },
-    { "id": "stellaris:space_suit_boots", "required": false }
+    { "id": "stellaris:space_suit_boots", "required": false },
+    { "id": "progressivearchery:netherite_fused_bow", "required": false },
+    { "id": "progressivearchery:netherite_fused_horn_bow", "required": false },
+    { "id": "progressivearchery:diamond_fused_longbow", "required": false },
+    { "id": "progressivearchery:iron_fused_crossbow", "required": false },
+    { "id": "progressivearchery:diamond_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:copper_fused_crossbow", "required": false }
   ]
 }

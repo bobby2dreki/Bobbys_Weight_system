@@ -2,6 +2,7 @@
   "values": [
     { "id": "minecraft:trident", "required": false },
     { "id": "shieldexp:diamond_shield", "required": false },
-    { "id": "stellaris:space_suit_leggings", "required": false }
+    { "id": "stellaris:space_suit_leggings", "required": false },
+    { "id": "progressivearchery:netherite_fused_crossbow", "required": false }
   ]
 }

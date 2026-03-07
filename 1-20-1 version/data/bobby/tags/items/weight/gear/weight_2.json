@@ -1,11 +1,9 @@
 {
   "values": [
     { "id": "minecraft:wooden_sword", "required": false },
-    { "id": "minecraft:leather_chestplate", "required": false },
     { "id": "minecraft:golden_boots", "required": false },
     { "id": "minecraft:golden_helmet", "required": false },
     { "id": "minecraft:chainmail_leggings", "required": false },
-    { "id": "minecraft:crossbow", "required": false },
     { "id": "minecraft:wooden_spear", "required": false },
     { "id": "aether:iron_gloves", "required": false },
     { "id": "aether:neptune_gloves", "required": false },
@@ -32,6 +30,11 @@
     { "id": "the_bumblezone:stingless_bee_boots_2", "required": false },
     { "id": "immersive_armors:prismarine_boots", "required": false },
     { "id": "immersive_armors:warrior_boots", "required": false },
-    { "id": "aether:neptune_boots", "required": false }
+    { "id": "aether:neptune_boots", "required": false },
+    { "id": "tide:starlight_bow", "required": false },
+    { "id": "progressivearchery:gold_fused_bow", "required": false },
+    { "id": "progressivearchery:gold_fused_horn_bow", "required": false },
+    { "id": "progressivearchery:longbow", "required": false },
+    { "id": "progressivearchery:tubular_bow", "required": false }
   ]
 }

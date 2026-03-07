@@ -24,6 +24,10 @@
     { "id": "immersive_armors:heavy_boots", "required": false },
     { "id": "aether:obsidian_boots", "required": false },
     { "id": "adventurez:gilded_netherite_boots", "required": false },
-    { "id": "deep_underground:viridium_boots", "required": false }
+    { "id": "deep_underground:viridium_boots", "required": false },
+    { "id": "armorrestitched:copper_chestplate", "required": false },
+    { "id": "progressivearchery:netherite_fused_longbow", "required": false },
+    { "id": "progressivearchery:netherite_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:diamond_fused_crossbow", "required": false }
   ]
 }

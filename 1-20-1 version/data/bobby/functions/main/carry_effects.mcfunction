@@ -5,7 +5,7 @@ scoreboard players operation @s weight_ratio += @s weight_total
 scoreboard players operation @s weight_ratio *= #w10 weight_multi
 
 # Divide by player strength
-scoreboard players operation @s weight_ratio /= @s strength_player
+scoreboard players operation @s weight_ratio /= @s strength
 scoreboard players operation @s weight_ratio -= #w1 weight_multi
 
 # Tier 1: Slightly Heavy

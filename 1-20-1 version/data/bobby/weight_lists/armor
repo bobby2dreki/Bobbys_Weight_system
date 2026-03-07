@@ -1,5 +1,12 @@
 # Helmets
-minecraft:leather_helmet weight: 1
+minecraft:leather_helmet weight: 0
+armorrestitched:cotton_helmet 0
+armorrestitched:fur_helmet 0
+armorrestitched:linen_helmet 0
+armorrestitched:silk_helmet 0
+armorrestitched:wool_helmet 0
+armorrestitched:paper_helmet 0
+
 minecraft:chainmail_helmet weight: 1
 minecraft:turtle_helmet 1
 immersive_armors:wooden_helmet 1
@@ -19,6 +26,7 @@ the_bumblezone:stingless_bee_helmet_2 2
 
 minecraft:copper_helmet 3
 minecraft:iron_helmet weight: 3
+armorrestitched:copper_helmet 3
 immersive_armors:divine_helmet 3
 immersive_armors:prismarine_helmet 3
 immersive_armors:warrior_helmet 3
@@ -37,7 +45,14 @@ deep_underground:viridium_helmet 6
 deep_underground:cerulium_helmet 8
 
 # Chestplates
-minecraft:leather_chestplate weight: 2
+minecraft:leather_chestplate weight: 1
+armorrestitched:cotton_chestplate 1
+armorrestitched:fur_chestplate 1
+armorrestitched:linen_chestplate 1
+armorrestitched:silk_chestplate 1
+armorrestitched:wool_chestplate 1
+armorrestitched:paper_chestplate 1
+
 immersive_armors:bone_chestplate 2
 immersive_armors:wither_chestplate 2
 immersive_armors:robe_chestplate 2
@@ -59,6 +74,7 @@ aether:zanite_chestplate 5
 
 minecraft:copper_chestplate 6
 minecraft:iron_chestplate weight: 6
+armorrestitched:copper_chestplate 6
 aether:neptune_chestplate 6
 immersive_armors:divine_chestplate 6
 immersive_armors:prismarine_chestplate 6
@@ -76,6 +92,12 @@ deep_underground:cerulium_chestplate 14
 
 # Leggings
 minecraft:leather_leggings weight: 1
+armorrestitched:cotton_leggings 1
+armorrestitched:fur_leggings 1
+armorrestitched:linen_leggings 1
+armorrestitched:silk_leggings 1
+armorrestitched:wool_leggings 1
+armorrestitched:paper_leggings 1
 immersive_armors:bone_leggings 1
 immersive_armors:wither_leggings 1
 immersive_armors:robe_leggings 1
@@ -95,6 +117,7 @@ the_bumblezone:honey_bee_leggings_2 3
 
 minecraft:copper_leggings 4
 minecraft:iron_leggings weight: 4
+armorrestitched:copper_leggings 4
 aether:neptune_leggings 4
 immersive_armors:warrior_leggings 4
 immersive_armors:divine_leggings 4
@@ -114,7 +137,14 @@ deep_underground:cerulium_leggings 10
 
 
 # Boots
-minecraft:leather_boots weight: 1
+minecraft:leather_boots weight: 0
+armorrestitched:cotton_boots 0
+armorrestitched:fur_boots 0
+armorrestitched:linen_boots 0
+armorrestitched:silk_boots 0
+armorrestitched:wool_boots 0
+armorrestitched:paper_boots 0
+
 minecraft:chainmail_boots weight: 1
 immersive_armors:wooden_boots 1
 immersive_armors:robe_boots 1
@@ -133,6 +163,7 @@ the_bumblezone:stingless_bee_boots_2 2
 
 minecraft:copper_boots 3
 minecraft:iron_boots weight: 3
+armorrestitched:copper_boots 3
 immersive_armors:divine_boots 3
 immersive_armors:prismarine_boots 3
 immersive_armors:warrior_boots 3

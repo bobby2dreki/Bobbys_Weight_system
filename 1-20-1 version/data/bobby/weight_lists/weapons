@@ -56,9 +56,44 @@ aether:cloud_staff 0
 # Bows
 minecraft:bow 1
 aether:phoenix_bow 2
+tide:starlight_bow 2
+progressivearchery:gold_fused_bow 2
+progressivearchery:copper_fused_bow 3
+progressivearchery:iron_fused_bow 3
+progressivearchery:diamond_fused_bow 4
+progressivearchery:netherite_fused_bow 5
+
+# Horn bows
+progressivearchery:horn_bow 1
+progressivearchery:gold_fused_horn_bow 2
+progressivearchery:copper_fused_horn_bow 3
+progressivearchery:iron_fused_horn_bow 3
+progressivearchery:diamond_fused_horn_bow 4
+progressivearchery:netherite_fused_horn_bow 5
+
+# Longbow
+progressivearchery:longbow 2
+progressivearchery:gold_fused_longbow 3
+progressivearchery:copper_fused_longbow 4
+progressivearchery:iron_fused_longbow 4
+progressivearchery:diamond_fused_longbow 5
+progressivearchery:netherite_fused_longbow 6
+
+# Tubular bow
+progressivearchery:tubular_bow 2
+progressivearchery:gold_fused_tubular_bow 3
+progressivearchery:copper_fused_tubular_bow 4
+progressivearchery:iron_fused_tubular_bow 4
+progressivearchery:diamond_fused_tubular_bow 5
+progressivearchery:netherite_fused_tubular_bow 6
 
 # Crossbows
-minecraft:crossbow 2
+minecraft:crossbow 3
+progressivearchery:gold_fused_crossbow 4
+progressivearchery:copper_fused_crossbow 5
+progressivearchery:iron_fused_crossbow 5
+progressivearchery:diamond_fused_crossbow 6
+progressivearchery:netherite_fused_crossbow 7
 
 # Shields
 shieldexp:wooden_shield 2

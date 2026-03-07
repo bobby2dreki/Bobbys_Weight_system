@@ -24,6 +24,14 @@
     { "id": "immersive_armors:warrior_leggings", "required": false },
     { "id": "immersive_armors:divine_leggings", "required": false },
     { "id": "immersive_armors:prismarine_leggings", "required": false },
-    { "id": "stellaris:jet_suit_boots", "required": false }
+    { "id": "stellaris:jet_suit_boots", "required": false },
+    { "id": "armorrestitched:copper_leggings", "required": false },
+    { "id": "progressivearchery:copper_fused_longbow", "required": false },
+    { "id": "progressivearchery:iron_fused_longbow", "required": false },
+    { "id": "progressivearchery:diamond_fused_bow", "required": false },
+    { "id": "progressivearchery:diamond_fused_horn_bow", "required": false },
+    { "id": "progressivearchery:copper_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:iron_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:gold_fused_crossbow", "required": false }
   ]
 }

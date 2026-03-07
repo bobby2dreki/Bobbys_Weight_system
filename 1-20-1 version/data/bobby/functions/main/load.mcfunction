@@ -5,7 +5,6 @@ scoreboard objectives add weight_temp dummy
 scoreboard objectives add weight_total dummy
 scoreboard objectives add weight_multi dummy
 scoreboard objectives add weight_ratio dummy
-scoreboard objectives add strength_player dummy
 scoreboard objectives add strength dummy
 scoreboard players set #global strength 26
 scoreboard players set #global weight_timer 0

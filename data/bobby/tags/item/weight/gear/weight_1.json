@@ -1,7 +1,6 @@
 {
   "values": [
     { "id": "minecraft:leather_chestplate", "required": false },
-    { "id": "minecraft:leather_boots", "required": false },
     { "id": "minecraft:leather_leggings", "required": false },
     { "id": "minecraft:chainmail_helmet", "required": false },
     { "id": "minecraft:chainmail_boots", "required": false },
@@ -30,6 +29,18 @@
     { "id": "aether:phoenix_boots", "required": false },
     { "id": "immersive_armors:slime_boots", "required": false },
     { "id": "immersive_armors:bone_boots", "required": false },
-    { "id": "immersive_armors:wither_boots", "required": false }
+    { "id": "immersive_armors:wither_boots", "required": false },
+    { "id": "armorrestitched:cotton_chestplate", "required": false },
+    { "id": "armorrestitched:fur_chestplate", "required": false },
+    { "id": "armorrestitched:silk_chestplate", "required": false },
+    { "id": "armorrestitched:paper_chestplate", "required": false },
+    { "id": "armorrestitched:linen_chestplate", "required": false },
+    { "id": "armorrestitched:wool_chestplate", "required": false },
+    { "id": "armorrestitched:cotton_leggings", "required": false },
+    { "id": "armorrestitched:fur_leggings", "required": false },
+    { "id": "armorrestitched:silk_leggings", "required": false },
+    { "id": "armorrestitched:paper_leggings", "required": false },
+    { "id": "armorrestitched:linen_leggings", "required": false },
+    { "id": "armorrestitched:wool_leggings", "required": false }
   ]
 }
