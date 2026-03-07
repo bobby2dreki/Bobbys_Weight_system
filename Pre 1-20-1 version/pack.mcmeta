@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 12
+    },
+    "description": "A weight system that adds, you know, weight to tools, armor, wepons and shields in minecraft"
+  }
+}

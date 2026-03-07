@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:netherite_shovel",
-    "minecraft:netherite_hoe"
+    "minecraft:netherite_hoe",
+    { "id": "deep_underground:viridium_shovel", "required": false },
+    { "id": "deep_underground:viridium_hoe", "required": false }
   ]
 }

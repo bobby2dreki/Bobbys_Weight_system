@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:wooden_shovel",
-    "minecraft:wooden_hoe"
+    "minecraft:wooden_hoe",
+    { "id": "aether:skyroot_shovel", "required": false },
+    { "id": "aether:skyroot_hoe", "required": false }
   ]
 }
