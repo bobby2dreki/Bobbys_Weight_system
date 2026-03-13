@@ -1,0 +1,7 @@
+{
+  "values": [
+    { "id": "immersive_aircraft:cargo_airship", "required": false },
+    { "id": "immersive_aircraft:biplane", "required": false },
+    { "id": "more_engines:sport_biplane", "required": false }
+  ]
+}

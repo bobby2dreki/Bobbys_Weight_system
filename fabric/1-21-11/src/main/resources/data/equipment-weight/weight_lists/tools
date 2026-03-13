@@ -1,0 +1,91 @@
+# Shovels
+minecraft:wooden_shovel weight: 1
+aether:skyroot_shovel 1
+aether:gravitite_shovel 2
+aether:valkyrie_shovel 2
+
+minecraft:golden_shovel weight: 3
+aether:zanite_shovel 3
+
+minecraft:copper_shovel 4
+minecraft:iron_shovel weight: 4
+stellaris:steel_shovel 4
+
+minecraft:stone_shovel weight: 5
+aether:holystone_shovel 5
+
+minecraft:diamond_shovel weight: 7
+
+minecraft:netherite_shovel weight: 9
+deep_underground:viridium_shovel 9
+deep_underground:cerulium_shovel 11
+deep_underground:depthbound_steel_shovel 14
+
+# Hoes
+minecraft:wooden_hoe weight: 1
+aether:skyroot_hoe 1
+aether:gravitite_hoe 2
+aether:valkyrie_hoe 2
+
+minecraft:golden_hoe weight: 3
+aether:zanite_hoe 3
+
+minecraft:copper_hoe 4
+minecraft:iron_hoe weight: 4
+stellaris:steel_hoe 4
+
+minecraft:stone_hoe weight: 5
+aether:holystone_hoe 5
+
+minecraft:diamond_hoe weight: 7
+
+minecraft:netherite_hoe weight: 9
+deep_underground:viridium_hoe 9
+deep_underground:cerulium_hoe 11
+deep_underground:depthbound_steel_hoe 14
+
+# Axes
+minecraft:wooden_axe weight: 2
+aether:skyroot_axe 2
+aether:gravitite_axe 3
+aether:valkyrie_axe 3
+
+minecraft:golden_axe weight: 4
+aether:zanite_axe 4
+
+minecraft:copper_axe 5
+minecraft:iron_axe weight: 5
+stellaris:steel_axe 5
+
+minecraft:stone_axe weight: 6
+aether:holystone_axe 6
+
+minecraft:diamond_axe weight: 8
+
+minecraft:netherite_axe weight: 10
+deep_underground:viridium_axe 10
+deep_underground:cerulium_axe 12
+deep_underground:depthbound_steel_axe 15
+
+# Pickaxes
+minecraft:wooden_pickaxe weight: 2
+aether:skyroot_pickaxe 2
+aether:gravitite_pickaxe 3
+aether:valkyrie_pickaxe 3
+
+minecraft:golden_pickaxe weight: 4
+aether:zanite_axe 4
+
+minecraft:copper_pickaxe
+minecraft:iron_pickaxe weight: 5
+stellaris:steel_pickaxe 5
+
+minecraft:stone_pickaxe weight: 6
+aether:holystone_pickaxe 6
+
+minecraft:diamond_pickaxe weight: 8
+
+minecraft:netherite_pickaxe weight: 10
+deep_underground:viridium_pickaxe 10
+deep_underground:cerulium_pickaxe 12
+deep_underground:depthbound_steel_pickaxe 15

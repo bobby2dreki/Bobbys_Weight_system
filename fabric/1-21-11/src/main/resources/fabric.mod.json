@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "equipment-weight",
+	"version": "${version}",
+	"name": "Equipment Weight",
+	"description": "Adds weight to equipment",
+	"authors": [
+		"bobby2dreki"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/equipment-weight/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bobby2dreki.equipmentweight.EquipmentWeight"
+		],
+		"client": [
+			"com.bobby2dreki.equipmentweight.EquipmentWeightClient"
+		],
+		"modmenu": [
+			"com.bobby2dreki.equipmentweight.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"equipment-weight.mixins.json",
+		{
+			"config": "equipment-weight.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": ">=1.21 <1.22",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

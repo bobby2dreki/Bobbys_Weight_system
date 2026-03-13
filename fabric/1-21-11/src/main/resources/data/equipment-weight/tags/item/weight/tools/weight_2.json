@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:wooden_axe",
+    "minecraft:wooden_pickaxe",
+    { "id": "aether:gravitite_shovel", "required": false },
+    { "id": "aether:valkyrie_shovel", "required": false },
+    { "id": "aether:gravitite_hoe", "required": false },
+    { "id": "aether:valkyrie_hoe", "required": false },
+    { "id": "aether:skyroot_axe", "required": false },
+    { "id": "aether:skyroot_pickaxe", "required": false }
+  ]
+}

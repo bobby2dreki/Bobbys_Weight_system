@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:golden_axe",
+    "minecraft:golden_pickaxe",
+    { "id": "stellaris:steel_shovel", "required": false },
+    { "id": "stellaris:steel_hoe", "required": false },
+    { "id": "aether:zanite_axe", "required": false },
+    { "id": "aether:zanite_pickaxe", "required": false }
+  ]
+}

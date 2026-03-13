@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "deep_underground:cerulium_shovel", "required": false },
+    { "id": "deep_underground:cerulium_hoe", "required": false }
+  ]
+}

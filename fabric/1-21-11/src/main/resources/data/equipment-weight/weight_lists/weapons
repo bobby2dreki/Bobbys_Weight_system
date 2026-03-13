@@ -1,0 +1,123 @@
+# Swords
+minecraft:wooden_sword weight: 2
+aether:candy_cane_sword 2
+aether:skyroot_sword 2
+aether:lightning_knife 2
+aether:pig_slayer 2
+aether:gravitite_sword 3
+
+minecraft:golden_sword weight: 4
+tide:blazing_swordfish 4
+tide:swordfish 4
+aether:zanite_sword 4
+
+minecraft:copper_sword 5
+minecraft:iron_sword weight: 5
+aether:lightning_sword 5
+aether:holy_sword 5
+aether:vampire_blade 5
+aether:flaming_sword 5
+stellaris:steel_sword 5
+
+minecraft:stone_sword weight: 6
+aether:holystone_sword 6
+
+minecraft:diamond_sword weight: 8
+
+minecraft:netherite_sword weight: 10
+deep_underground:viridium_sword: 10
+deep_underground:cerulium_sword 12
+deep_underground:depthbound_steel_sword 15
+
+#Spears
+minecraft:wooden_spear 2
+minecraft:golden_spear 4
+minecraft:copper_spear 5
+minecraft:iron_spear 5
+minecraft:stone_spear 6
+minecraft:diamond_spear 8
+minecraft:netherite_spear 10
+
+# Lances
+aether:valkyrie_lance 4
+
+# Maces
+minecraft:mace: 8
+
+# Hammers
+aether:hammer_of_kingbdogz 6
+
+# Tridents
+minecraft:trident: 7
+
+# Staffs
+aether:cloud_staff 0
+
+# Bows
+minecraft:bow 1
+aether:phoenix_bow 2
+tide:starlight_bow 2
+progressivearchery:gold_fused_bow 2
+progressivearchery:copper_fused_bow 3
+progressivearchery:iron_fused_bow 3
+progressivearchery:diamond_fused_bow 4
+progressivearchery:netherite_fused_bow 5
+
+# Horn bows
+progressivearchery:horn_bow 1
+progressivearchery:gold_fused_horn_bow 2
+progressivearchery:copper_fused_horn_bow 3
+progressivearchery:iron_fused_horn_bow 3
+progressivearchery:diamond_fused_horn_bow 4
+progressivearchery:netherite_fused_horn_bow 5
+
+# Longbow
+progressivearchery:longbow 2
+progressivearchery:gold_fused_longbow 3
+progressivearchery:copper_fused_longbow 4
+progressivearchery:iron_fused_longbow 4
+progressivearchery:diamond_fused_longbow 5
+progressivearchery:netherite_fused_longbow 6
+
+# Tubular bow
+progressivearchery:tubular_bow 2
+progressivearchery:gold_fused_tubular_bow 3
+progressivearchery:copper_fused_tubular_bow 4
+progressivearchery:iron_fused_tubular_bow 4
+progressivearchery:diamond_fused_tubular_bow 5
+progressivearchery:netherite_fused_tubular_bow 6
+
+# Crossbows
+minecraft:crossbow 3
+progressivearchery:gold_fused_crossbow 4
+progressivearchery:copper_fused_crossbow 5
+progressivearchery:iron_fused_crossbow 5
+progressivearchery:diamond_fused_crossbow 6
+progressivearchery:netherite_fused_crossbow 7
+
+# Shields
+shieldexp:wooden_shield 2
+shieldexp:golden_shield 3
+the_bumblezone:honey_crystal_shield 4
+shieldexp:iron_shield 5
+minecraft:shield 5
+aether:shield_of_repulsion 5
+shieldexp:diamond_shield 7
+shieldexp:netherite_shield 9
+
+# Gloves
+aether:leather_gloves 0
+aether:gravitite_gloves 0
+aether:valkyrie_gloves 0
+aether:phoenix_gloves 0
+aether:chainmail_gloves 1
+aether:zanite_gloves 1
+aether:golden_gloves 1
+aether:iron_gloves 2
+aether:neptune_gloves 2
+aether:diamond_gloves 3
+aether:netherite_gloves 4
+aether:obsidian_gloves 4
+
+
+

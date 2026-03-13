@@ -1,0 +1,9 @@
+{
+  "values": [
+    { "id": "minecraft:netherite_chestplate", "required": false },
+    { "id": "deep_underground:cerulium_sword", "required": false },
+    { "id": "deep_underground:viridium_chestplate", "required": false },
+    { "id": "adventurez:gilded_netherite_chestplate", "required": false },
+    { "id": "aether:obsidian_chestplate", "required": false }
+  ]
+}

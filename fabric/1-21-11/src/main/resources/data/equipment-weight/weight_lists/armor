@@ -1,0 +1,181 @@
+# Helmets
+minecraft:leather_helmet weight: 0
+armorrestitched:cotton_helmet 0
+armorrestitched:fur_helmet 0
+armorrestitched:linen_helmet 0
+armorrestitched:silk_helmet 0
+armorrestitched:wool_helmet 0
+armorrestitched:paper_helmet 0
+
+minecraft:chainmail_helmet weight: 1
+minecraft:turtle_helmet 1
+immersive_armors:wooden_helmet 1
+immersive_armors:robe_helmet 1
+aether:gravitite_helmet 1
+aether:valkyrie_helmet 1
+aether:phoenix_helmet 1
+immersive_armors:slime_helmet 1
+immersive_armors:bone_helmet 1
+immersive_armors:wither_helmet 1
+immersive_armors:steampunk_helmet 1
+
+minecraft:golden_helmet weight: 2
+aether:zanite_helmet 2
+the_bumblezone:stingless_bee_helmet_1 2
+the_bumblezone:stingless_bee_helmet_2 2
+
+minecraft:copper_helmet 3
+minecraft:iron_helmet weight: 3
+armorrestitched:copper_helmet 3
+immersive_armors:divine_helmet 3
+immersive_armors:prismarine_helmet 3
+immersive_armors:warrior_helmet 3
+aether:neptune_helmet 3
+friendsandfoes:wildfire_crown 3
+
+minecraft:diamond_helmet weight: 4
+stellaris:jet_suit_helmet 4
+stellaris:space_suit_helmet 5
+
+minecraft:netherite_helmet weight: 6
+immersive_armors:heavy_helmet 6
+aether:obsidian_helmet 6
+adventurez:gilded_netherite_helmet 6
+deep_underground:viridium_helmet 6
+deep_underground:cerulium_helmet 8
+
+# Chestplates
+minecraft:leather_chestplate weight: 1
+armorrestitched:cotton_chestplate 1
+armorrestitched:fur_chestplate 1
+armorrestitched:linen_chestplate 1
+armorrestitched:silk_chestplate 1
+armorrestitched:wool_chestplate 1
+armorrestitched:paper_chestplate 1
+
+immersive_armors:bone_chestplate 2
+immersive_armors:wither_chestplate 2
+immersive_armors:robe_chestplate 2
+immersive_armors:slime_chestplate 2
+
+minecraft:chainmail_chestplate weight: 3
+immersive_armors:wooden_chestplate 3
+aether:gravitite_chestplate 3
+aether:valkyrie_chestplate 3
+aether:phoenix_chestplate 3
+the_bumblezone:bumble_bee_chestplate_1 4
+the_bumblezone:bumble_bee_chestplate_2 4
+the_bumblezone:bumble_bee_chestplate_trans_1 4
+the_bumblezone:bumble_bee_chestplate_trans_2 4
+
+minecraft:golden_chestplate weight: 5
+immersive_armors:steampunk_chestplate 5
+aether:zanite_chestplate 5
+
+minecraft:copper_chestplate 6
+minecraft:iron_chestplate weight: 6
+armorrestitched:copper_chestplate 6
+aether:neptune_chestplate 6
+immersive_armors:divine_chestplate 6
+immersive_armors:prismarine_chestplate 6
+immersive_armors:warrior_chestplate 6
+
+minecraft:diamond_chestplate weight: 10
+stellaris:jet_suit_chestplate 10
+
+minecraft:netherite_chestplate weight: 12
+immersive_armors:heavy_chestplate 12
+aether:obsidian_chestplate 12
+adventurez:gilded_netherite_chestplate 12
+deep_underground:viridium_chestplate 12
+deep_underground:cerulium_chestplate 14
+
+# Leggings
+minecraft:leather_leggings weight: 1
+armorrestitched:cotton_leggings 1
+armorrestitched:fur_leggings 1
+armorrestitched:linen_leggings 1
+armorrestitched:silk_leggings 1
+armorrestitched:wool_leggings 1
+armorrestitched:paper_leggings 1
+immersive_armors:bone_leggings 1
+immersive_armors:wither_leggings 1
+immersive_armors:robe_leggings 1
+immersive_armors:slime_leggings 1
+
+minecraft:chainmail_leggings weight: 2
+immersive_armors:wooden_leggings 2
+aether:gravitite_leggings 2
+aether:valkyrie_leggings 2
+aether:phoenix_leggings 2
+
+minecraft:golden_leggings weight: 3
+immersive_armors:steampunk_leggings 3
+aether:zanite_leggings 3
+the_bumblezone:honey_bee_leggings_1 3
+the_bumblezone:honey_bee_leggings_2 3
+
+minecraft:copper_leggings 4
+minecraft:iron_leggings weight: 4
+armorrestitched:copper_leggings 4
+aether:neptune_leggings 4
+immersive_armors:warrior_leggings 4
+immersive_armors:divine_leggings 4
+immersive_armors:prismarine_leggings 4
+
+minecraft:diamond_leggings weight: 6
+stellaris:jet_suit_leggings 6
+
+stellaris:space_suit_leggings 7
+
+minecraft:netherite_leggings weight: 8
+immersive_armors:heavy_leggings 8
+aether:obsidian_leggings 8
+adventurez:gilded_netherite_leggings 8
+deep_underground:viridium_leggings 8
+deep_underground:cerulium_leggings 10
+
+
+# Boots
+minecraft:leather_boots weight: 0
+armorrestitched:cotton_boots 0
+armorrestitched:fur_boots 0
+armorrestitched:linen_boots 0
+armorrestitched:silk_boots 0
+armorrestitched:wool_boots 0
+armorrestitched:paper_boots 0
+
+minecraft:chainmail_boots weight: 1
+immersive_armors:wooden_boots 1
+immersive_armors:robe_boots 1
+aether:gravitite_boots 1
+aether:valkyrie_boots 1
+aether:phoenix_boots 1
+immersive_armors:slime_boots 1
+immersive_armors:bone_boots 1
+immersive_armors:wither_boots 1
+
+minecraft:golden_boots weight: 2
+aether:zanite_boots 2
+immersive_armors:steampunk_boots 2
+the_bumblezone:stingless_bee_boots_1 2
+the_bumblezone:stingless_bee_boots_2 2
+
+minecraft:copper_boots 3
+minecraft:iron_boots weight: 3
+armorrestitched:copper_boots 3
+immersive_armors:divine_boots 3
+immersive_armors:prismarine_boots 3
+immersive_armors:warrior_boots 3
+aether:neptune_boots 3
+
+minecraft:diamond_boots weight: 4
+stellaris:jet_suit_boots 4
+stellaris:space_suit_boots 5
+
+minecraft:netherite_boots weight: 6
+immersive_armors:heavy_boots 6
+aether:obsidian_boots 6
+adventurez:gilded_netherite_boots 6
+deep_underground:viridium_boots 6
+deep_underground:cerulium_boots 8

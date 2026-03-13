@@ -1,0 +1,33 @@
+{
+  "values": [
+    { "id": "minecraft:netherite_helmet", "required": false },
+    { "id": "minecraft:iron_chestplate", "required": false },
+    { "id": "minecraft:diamond_leggings", "required": false },
+    { "id": "minecraft:netherite_boots", "required": false },
+    { "id": "minecraft:stone_sword", "required": false },
+    { "id": "minecraft:shield", "required": false },
+    { "id": "minecraft:copper_chestplate", "required": false },
+    { "id": "minecraft:stone_spear", "required": false },
+    { "id": "aether:holystone_sword", "required": false },
+    { "id": "aether:hammer_of_kingbdogz", "required": false },
+    { "id": "aether:shield_of_repulsion", "required": false },
+    { "id": "deep_underground:viridium_helmet", "required": false },
+    { "id": "adventurez:gilded_netherite_helmet", "required": false },
+    { "id": "aether:obsidian_helmet", "required": false },
+    { "id": "immersive_armors:heavy_helmet", "required": false },
+    { "id": "aether:neptune_chestplate", "required": false },
+    { "id": "immersive_armors:warrior_chestplate", "required": false },
+    { "id": "immersive_armors:divine_chestplate", "required": false },
+    { "id": "immersive_armors:prismarine_chestplate", "required": false },
+    { "id": "immersive_armors:steampunk_leggings", "required": false },
+    { "id": "stellaris:jet_suit_leggings", "required": false },
+    { "id": "immersive_armors:heavy_boots", "required": false },
+    { "id": "aether:obsidian_boots", "required": false },
+    { "id": "adventurez:gilded_netherite_boots", "required": false },
+    { "id": "deep_underground:viridium_boots", "required": false },
+    { "id": "armorrestitched:copper_chestplate", "required": false },
+    { "id": "progressivearchery:netherite_fused_longbow", "required": false },
+    { "id": "progressivearchery:netherite_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:diamond_fused_crossbow", "required": false }
+  ]
+}

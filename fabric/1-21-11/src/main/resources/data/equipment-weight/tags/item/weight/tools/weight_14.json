@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "deep_underground:depthbound_steel_shovel", "required": false },
+    { "id": "deep_underground:depthbound_steel_hoe", "required": false }
+  ]
+}

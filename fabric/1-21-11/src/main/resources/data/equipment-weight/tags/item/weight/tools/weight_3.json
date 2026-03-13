@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:golden_shovel",
+    "minecraft:golden_hoe",
+    { "id": "aether:zanite_shovel", "required": false },
+    { "id": "aether:zanite_hoe", "required": false },
+    { "id": "aether:gravitite_axe", "required": false },
+    { "id": "aether:valkyrie_axe", "required": false },
+    { "id": "aether:gravitite_pickaxe", "required": false },
+    { "id": "aether:valkyrie_pickaxe", "required": false }
+  ]
+}

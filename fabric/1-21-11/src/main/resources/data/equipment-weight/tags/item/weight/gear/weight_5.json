@@ -1,0 +1,27 @@
+{
+  "values": [
+    { "id": "minecraft:iron_sword", "required": false },
+    { "id": "minecraft:copper_sword", "required": false },
+    { "id": "minecraft:copper_axe", "required": false },
+    { "id": "minecraft:copper_pickaxe", "required": false },
+    { "id": "minecraft:copper_spear", "required": false },
+    { "id": "minecraft:iron_spear", "required": false },
+    { "id": "aether:lightning_sword", "required": false },
+    { "id": "aether:holy_sword", "required": false },
+    { "id": "aether:vampire_blade", "required": false },
+    { "id": "aether:flaming_sword", "required": false },
+    { "id": "aether:shield_of_repulsion", "required": false },
+    { "id": "shieldexp:iron_shield", "required": false },
+    { "id": "stellaris:steel_sword", "required": false },
+    { "id": "stellaris:space_suit_helmet", "required": false },
+    { "id": "aether:zanite_chestplate", "required": false },
+    { "id": "immersive_armors:steampunk_chestplate", "required": false },
+    { "id": "stellaris:space_suit_boots", "required": false },
+    { "id": "progressivearchery:netherite_fused_bow", "required": false },
+    { "id": "progressivearchery:netherite_fused_horn_bow", "required": false },
+    { "id": "progressivearchery:diamond_fused_longbow", "required": false },
+    { "id": "progressivearchery:iron_fused_crossbow", "required": false },
+    { "id": "progressivearchery:diamond_fused_tubular_bow", "required": false },
+    { "id": "progressivearchery:copper_fused_crossbow", "required": false }
+  ]
+}

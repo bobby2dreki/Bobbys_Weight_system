@@ -1,0 +1,9 @@
+{
+  "values": [
+    { "id": "immersive_aircraft:bamboo_hopper", "required": false },
+    { "id": "immersive_aircraft:warship", "required": false },
+    { "id": "man_of_many_planes:scarlet_biplane", "required": false },
+    { "id": "man_of_many_planes:economy_plane", "required": false },
+    { "id": "more_engines:commercial_hopper", "required": false }
+  ]
+}

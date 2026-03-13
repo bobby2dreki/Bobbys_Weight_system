@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:netherite_axe",
+    "minecraft:netherite_pickaxe",
+    { "id": "deep_underground:viridium_axe", "required": false },
+    { "id": "deep_underground:viridium_pickaxe", "required": false }
+  ]
+}

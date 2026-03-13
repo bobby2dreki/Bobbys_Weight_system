@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "deep_underground:depthbound_steel_axe", "required": false },
+    { "id": "deep_underground:depthbound_steel_pickaxe", "required": false }
+  ]
+}

@@ -1,0 +1,1 @@
+# execute if score @s strength_player matches 0 run scoreboard players set @s strength_player 20
