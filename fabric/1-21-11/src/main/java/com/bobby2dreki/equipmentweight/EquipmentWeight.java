@@ -16,7 +16,7 @@ public class EquipmentWeight implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initializing RPG Equipment Weight...");
+		LOGGER.info("Initializing Equipment Weight...");
 
 		// Load config
 		Config.HANDLER.load();

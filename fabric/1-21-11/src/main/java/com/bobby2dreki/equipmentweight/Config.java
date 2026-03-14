@@ -6,6 +6,9 @@ import dev.isxander.yacl3.config.v2.api.serializer.GsonConfigSerializerBuilder;
 import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.util.Identifier;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Config {
 
     public static final ConfigClassHandler<Config> HANDLER =
@@ -20,5 +23,10 @@ public class Config {
 
     @SerialEntry
     public int globalStrength = 26;
+    @SerialEntry
+    public List<String> weight1 = new ArrayList<>();
+
+    @SerialEntry
+    public List<String> weight2 = new ArrayList<>();
 
 }
