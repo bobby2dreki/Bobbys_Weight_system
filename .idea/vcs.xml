@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NeoForge/1.21.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fabric/1.20.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forge/1.21.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multi loader/1.21.x" vcs="Git" />
   </component>
 </project>

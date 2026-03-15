@@ -1,1 +1,0 @@
-execute unless score @s strength matches 1.. run scoreboard players operation @s strength = #global strength

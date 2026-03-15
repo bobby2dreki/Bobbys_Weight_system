@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/datapack/1-21-x version/RPG Equipment Weight.iml" filepath="$PROJECT_DIR$/datapack/1-21-x version/RPG Equipment Weight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forge/1.21.1/src/1.21.1.iml" filepath="$PROJECT_DIR$/forge/1.21.1/src/1.21.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NeoForge/NeoForge.iml" filepath="$PROJECT_DIR$/NeoForge/NeoForge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forge/1.21.1/build/build.iml" filepath="$PROJECT_DIR$/forge/1.21.1/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi loader/1.21.x/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/multi loader/1.21.x/buildSrc/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabric/1.20.1/src/client/client.iml" filepath="$PROJECT_DIR$/fabric/1.20.1/src/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabric/1-21-11/src/client/client2.iml" filepath="$PROJECT_DIR$/fabric/1-21-11/src/client/client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi loader/1.21.x/common/common.iml" filepath="$PROJECT_DIR$/multi loader/1.21.x/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi loader/1.21.x/fabric/fabric.iml" filepath="$PROJECT_DIR$/multi loader/1.21.x/fabric/fabric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi loader/1.21.x/forge/forge.iml" filepath="$PROJECT_DIR$/multi loader/1.21.x/forge/forge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabric/1-21-11/src/main/main.iml" filepath="$PROJECT_DIR$/fabric/1-21-11/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fabric/1.20.1/src/main/main2.iml" filepath="$PROJECT_DIR$/fabric/1.20.1/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi loader/1.21.x/neoforge/neoforge.iml" filepath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/neoforge.iml" />
     </modules>
   </component>
 </project>

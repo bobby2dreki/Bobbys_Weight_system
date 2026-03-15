@@ -7,5 +7,5 @@ This datapack implements a weight system for Minecraft.
 © 2026 bobby2dreki (Bob van Schagen)
 
 Licensed under CC BY-SA 4.0  
-See LICENSE.txt for details.
+See LICENSE.md for details.
 

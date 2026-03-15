@@ -1,8 +1,0 @@
-{
-  "values": [
-    "minecraft:stone_axe",
-    "minecraft:stone_pickaxe",
-    { "id": "stellaris:aether:holystone_axe", "required": false },
-    { "id": "stellaris:aether:holystone_pickaxe", "required": false }
-  ]
-}

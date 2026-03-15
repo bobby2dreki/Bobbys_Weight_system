@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.bobby2dreki.equipmentweight.mixin.client",
+	"package": "bobby2dreki.equipment_weight.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+      "bobby2dreki.equipmentweight.mixin.client.ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

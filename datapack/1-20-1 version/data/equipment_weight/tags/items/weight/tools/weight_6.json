@@ -1,0 +1,8 @@
+{
+  "values": [
+    { "id": "minecraft:stone_axe", "required": false },
+    { "id": "minecraft:stone_pickaxe", "required": false},
+    { "id": "aether:holystone_axe", "required": false },
+    { "id": "aether:holystone_pickaxe", "required": false }
+  ]
+}
