@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.1.7+4fc5413f3e">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-4b5d3c0a-client/1.1.7+4fc5413f3e/fabric-key-binding-api-v1-4b5d3c0a-client-1.1.7+4fc5413f3e-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-4b5d3c0a-client/1.1.7+4fc5413f3e/fabric-key-binding-api-v1-4b5d3c0a-client-1.1.7+4fc5413f3e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

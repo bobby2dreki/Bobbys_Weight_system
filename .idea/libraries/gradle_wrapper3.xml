@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

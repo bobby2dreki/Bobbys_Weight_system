@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/libs/equipment_weight-3.1.1+1.21.x.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/libs/equipment_weight-3.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

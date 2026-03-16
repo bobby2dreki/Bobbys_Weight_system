@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="7.1.0+014c8cec3e">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-4b5d3c0a-common/7.1.0+014c8cec3e/fabric-transitive-access-wideners-v1-4b5d3c0a-common-7.1.0+014c8cec3e-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-4b5d3c0a-common/7.1.0+014c8cec3e/fabric-transitive-access-wideners-v1-4b5d3c0a-common-7.1.0+014c8cec3e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

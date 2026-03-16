@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.12.3+kotlin.2.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-language-kotlin-4b5d3c0a/1.12.3+kotlin.2.0.21/fabric-language-kotlin-4b5d3c0a-1.12.3+kotlin.2.0.21-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-language-kotlin-4b5d3c0a/1.12.3+kotlin.2.0.21/fabric-language-kotlin-4b5d3c0a-1.12.3+kotlin.2.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

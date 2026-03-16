@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>MCP</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
+  <component name="McpModuleSettings">
+    <option name="srgType" value="SRG" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1.21.1/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="3.8.2+1.21.11-fabric" level="project" />
+    <orderEntry type="library" name="minecraft-common-0e73b89187-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2" level="project" />
+    <orderEntry type="library" name="artifacts2" level="project" />
+    <orderEntry type="library" name="remapped_working2" level="project" />
+    <orderEntry type="library" name="minecraft-common-6dd721cd7d-1.21.11-net.fabricmc.yarn.1_21_11.1.21.11+build.4-v2" level="project" />
+    <orderEntry type="library" name="artifacts3" level="project" />
+    <orderEntry type="library" name="remapped_working3" level="project" />
+    <orderEntry type="library" name="minecraft-common-496669bc46-1.21.11-net.fabricmc.yarn.1_21_11.1.21.11+build.4-v2" level="project" />
+    <orderEntry type="library" name="yet-another-config-lib-3.8.2+1.21.11-fabric" level="project" />
+    <orderEntry type="library" name="yet-another-config-lib-ceaf4ab3-3.6.6+1.20.1-fabric" level="project" />
+    <orderEntry type="library" name="minecraft-common-e572a196b7-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2" level="project" />
+    <orderEntry type="library" name="artifacts" level="project" />
+    <orderEntry type="library" name="minecraft-merged-4eb0fe4bb6-1.21-loom.mappings.1_21.layered+hash.1010942874-v2" level="project" />
+  </component>
+</module>

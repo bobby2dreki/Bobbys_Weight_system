@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yet-another-config-lib-3.8.2+1.21.11-fabric">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/processIncludeJars/yet-another-config-lib-3.8.2+1.21.11-fabric.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

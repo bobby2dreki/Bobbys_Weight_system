@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="3.8.2+1.21.11-fabric">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/dev/isxander/yet-another-config-lib-4b5d3c0a/3.8.2+1.21.11-fabric/yet-another-config-lib-4b5d3c0a-3.8.2+1.21.11-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/dev/isxander/yet-another-config-lib-4b5d3c0a/3.8.2+1.21.11-fabric/yet-another-config-lib-4b5d3c0a-3.8.2+1.21.11-fabric-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

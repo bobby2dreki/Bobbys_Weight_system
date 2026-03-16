@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd772d92-a077-4aa1-8ee4-45a833cfc374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/java/bobby2dreki/equipment_weight/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/java/bobby2dreki/equipment_weight/ConfigScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/java/bobby2dreki/equipment_weight/EquipmentWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/java/bobby2dreki/equipment_weight/mixin/ExampleMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/assets/equipment_weight/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/carry_effects.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/check_weight.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/load.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/strength_default.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/strength_player.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/function/main/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/weight_lists/armor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/weight_lists/items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/weight_lists/planes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/weight_lists/tools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/equipment_weight/weight_lists/weapons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/minecraft/tags/function/load.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/data/minecraft/tags/function/tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/equipment_weight.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/resources/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeoForge/1.21.1/src/main/templates/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/main/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/bar.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/heavy.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/injury.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/light.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/normal.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/strength_increase.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/training/training.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/bar.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/heavy.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/injury.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/light.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/normal.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/strength_increase.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/training/training.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/main/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/bar.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/heavy.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/injury.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/light.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/normal.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/strength_increase.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/training/training.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/client/java/com/bobby2dreki/equipmentweight/ConfigScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/client/java/com/bobby2dreki/equipmentweight/EquipmentWeightClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/client/java/com/bobby2dreki/equipmentweight/ModMenuIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/client/java/com/bobby2dreki/equipmentweight/mixin/client/ExampleClientMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/client/resources/equipment-weight.client.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/java/com/bobby2dreki/equipmentweight/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/java/com/bobby2dreki/equipmentweight/EquipmentWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/assets.equipment-weight/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/carry_effects.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/check_weight.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/load.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/strength_default.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/strength_player.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/functions/main/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/gear/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/tools/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/vehicules/weight_100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/vehicules/weight_300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/tags/items/weight/vehicules/weight_50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/weight_lists/armor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/weight_lists/items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/weight_lists/planes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/weight_lists/tools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/equipment-weight/weight_lists/weapons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/minecraft/tags/functions/load.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/data/minecraft/tags/functions/tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/equipment-weight.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/1.20.1/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/src/main/java/bobby2dreki/equipment_weight/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/src/main/java/bobby2dreki/equipment_weight/Equipment_Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forge/1.21.1/src/main/resources/pack.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/buildSrc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/buildSrc/src/main/groovy/multiloader-common.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/buildSrc/src/main/groovy/multiloader-loader.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/java/bobby2dreki/equipmentweight/CommonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/java/bobby2dreki/equipmentweight/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/java/bobby2dreki/equipmentweight/mixin/MixinMinecraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/java/bobby2dreki/equipmentweight/platform/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/java/bobby2dreki/equipmentweight/platform/services/IPlatformHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/carry_effects.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/check_weight.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/every_five_seconds.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/load.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/strength_default.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/strength_player.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/function/main/tick.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/weight_lists/armor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/weight_lists/items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/weight_lists/planes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/weight_lists/tools" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/equipment-weight/weight_lists/weapons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/minecraft/tags/function/load.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/data/minecraft/tags/function/tick.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/equipmentweight.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/common/src/main/resources/pack.mcmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/java/bobby2dreki/equipmentweight/EquipmentWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/java/bobby2dreki/equipmentweight/mixin/MixinTitleScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/java/bobby2dreki/equipmentweight/platform/FabricPlatformHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/resources/META-INF/services/bobby2dreki.equipmentweight.platform.services.IPlatformHelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/resources/equipmentweight.fabric.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/fabric/src/main/resources/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/java/bobby2dreki/equipmentweight/EquipmentWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/java/bobby2dreki/equipmentweight/mixin/MixinTitleScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/java/bobby2dreki/equipmentweight/platform/ForgePlatformHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/resources/META-INF/services/bobby2dreki.equipmentweight.platform.services.IPlatformHelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/forge/src/main/resources/equipmentweight.forge.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/java/bobby2dreki/equipmentweight/EquipmentWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/java/bobby2dreki/equipmentweight/mixin/MixinTitleScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/java/bobby2dreki/equipmentweight/platform/NeoForgePlatformHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/resources/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/resources/META-INF/services/bobby2dreki.equipmentweight.platform.services.IPlatformHelper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/neoforge/src/main/resources/equipmentweight.neoforge.mixins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi loader/1.21.x/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spawnanimations_v1_11_3_mc1_17_1_21_11_mod.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/RPG Weight system.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/carry_effects.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/weight/carry_effects.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/check_weight.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/weight/check_weight.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/every_five_seconds.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/load.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/main/load.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/strength_default.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/main/strength_default.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/strength_player.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/main/strength_player.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/functions/main/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/gear/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/gear/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/tools/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/tools/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/vehicules/weight_100.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/vehicules/weight_100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/vehicules/weight_300.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/vehicules/weight_300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/tags/items/weight/vehicules/weight_50.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/tags/items/weight/vehicules/weight_50.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/weight_lists/armor" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/weight_lists/armor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/weight_lists/items" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/weight_lists/items" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/weight_lists/planes" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/weight_lists/planes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/weight_lists/tools" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/weight_lists/tools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/bobby/weight_lists/weapons" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/weight_lists/weapons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/minecraft/tags/functions/load.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/minecraft/tags/functions/load.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-20-1 version/data/minecraft/tags/functions/tick.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/minecraft/tags/functions/tick.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/RPG Equipment Weight.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/carry_effects.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/weight/carry_effects.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/check_weight.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/weight/check_weight.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/every_five_seconds.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/load.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/main/load.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/strength_default.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/main/strength_default.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/strength_player.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/main/strength_player.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/function/main/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/function/main/tick.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/gear/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/gear/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/tools/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/tools/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/vehicules/weight_100.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/vehicules/weight_100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/vehicules/weight_300.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/vehicules/weight_300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/tags/item/weight/vehicules/weight_50.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/tags/item/weight/vehicules/weight_50.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/weight_lists/armor" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/weight_lists/armor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/weight_lists/items" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/weight_lists/items" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/weight_lists/planes" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/weight_lists/planes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/weight_lists/tools" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/weight_lists/tools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/bobby/weight_lists/weapons" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/equipment_weight/weight_lists/weapons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/minecraft/tags/function/load.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/minecraft/tags/function/load.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/data/minecraft/tags/function/tick.json" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/data/minecraft/tags/function/tick.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datapack/1-21-x version/pack.png" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-21-x version/pack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/com/bobby2dreki/equipmentweight/ConfigScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/bobby2dreki/equipment_weight/ConfigScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/com/bobby2dreki/equipmentweight/EquipmentWeightClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/bobby2dreki/equipment_weight/EquipmentWeightClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/com/bobby2dreki/equipmentweight/ModMenuIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/bobby2dreki/equipment_weight/ModMenuIntegration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/com/bobby2dreki/equipmentweight/mixin/client/ExampleClientMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/client/java/bobby2dreki/equipment_weight/mixin/client/ExampleClientMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/client/resources/equipment-weight.client.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/client/resources/equipment-weight.client.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/com/bobby2dreki/equipmentweight/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/bobby2dreki/equipment_weight/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/com/bobby2dreki/equipmentweight/EquipmentWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/bobby2dreki/equipment_weight/EquipmentWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/com/bobby2dreki/equipmentweight/mixin/ExampleMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/java/bobby2dreki/equipment_weight/mixin/ExampleMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/assets/equipment-weight/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/assets/equipment_weight/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/carry_effects.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/weight/carry_effects.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/check_weight.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/weight/check_weight.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/every_five_seconds.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/load.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/datapack/1-20-1 version/data/equipment-weight/functions/main/load.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/strength_default.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/main/strength_default.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/strength_player.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/function/main/strength_player.mcfunction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/function/main/tick.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/gear/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/gear/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_12.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_14.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_15.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_17.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_19.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/tools/weight_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/tools/weight_9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_100.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_300.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/tags/item/weight/vehicules/weight_50.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/tags/item/weight/vehicules/weight_50.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/weight_lists/armor" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/weight_lists/armor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/weight_lists/items" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/weight_lists/items" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/weight_lists/planes" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/weight_lists/planes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/weight_lists/tools" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/weight_lists/tools" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment-weight/weight_lists/weapons" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/equipment_weight/weight_lists/weapons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/minecraft/tags/function/load.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/minecraft/tags/function/load.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/minecraft/tags/function/tick.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/data/minecraft/tags/function/tick.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/equipment-weight.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/equipment_weight.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/1-21-11/src/main/resources/fabric.mod.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3Ax4XfIycWvG4wqJyjpL3PvaD4b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/boben/Desktop/Bobby's Weight system/datapack"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd772d92-a077-4aa1-8ee4-45a833cfc374" name="Changes" comment="" />
+      <created>1773520933446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773520933446</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4.0.13+1802ada577">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1.20.1/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-ceaf4ab3-common/4.0.13+1802ada577/fabric-content-registries-v0-ceaf4ab3-common-4.0.13+1802ada577-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1.20.1/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-ceaf4ab3-common/4.0.13+1802ada577/fabric-content-registries-v0-ceaf4ab3-common-4.0.13+1802ada577.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minecraft-clientOnly-0e73b89187-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1.20.1/.gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-0e73b89187/1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2/minecraft-clientOnly-0e73b89187-1.20.1-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

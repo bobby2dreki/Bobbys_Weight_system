@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="artifacts3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/neoforge/build/moddev/artifacts/neoforge-21.0.37-beta-minecraft-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/neoforge/build/moddev/artifacts/neoforge-21.0.37-beta-minecraft.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/neoforge/build/moddev/artifacts/neoforge-21.0.37-beta-minecraft-merged.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/neoforge/build/moddev/artifacts/neoforge-21.0.37-beta-minecraft-resources-aka-client-extra.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

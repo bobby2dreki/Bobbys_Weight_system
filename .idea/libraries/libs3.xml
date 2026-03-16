@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/libs/equipment-weight-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/libs/equipment_weight-4.0.0+1.21.x-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/libs/equipment-weight-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/libs/equipment_weight-4.0.0+1.21.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

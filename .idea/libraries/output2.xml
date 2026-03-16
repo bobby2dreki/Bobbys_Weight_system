@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="output2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/forge/build/downloadMcpConfig/output.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

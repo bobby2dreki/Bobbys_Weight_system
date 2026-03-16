@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="devlibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/devlibs/equipment_weight-3.1.1+1.21.x-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/devlibs/equipment-weight-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/devlibs/equipment_weight-3.1.1+1.21.x-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/build/devlibs/equipment-weight-1.0.0-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

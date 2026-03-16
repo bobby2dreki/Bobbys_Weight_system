@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="6.0.25+4fc5413f3e">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-4b5d3c0a-common/6.0.25+4fc5413f3e/fabric-transfer-api-v1-4b5d3c0a-common-6.0.25+4fc5413f3e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-4b5d3c0a-common/6.0.25+4fc5413f3e/fabric-transfer-api-v1-4b5d3c0a-common-6.0.25+4fc5413f3e-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

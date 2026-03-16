@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="artifacts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/moddev/artifacts/neoforge-21.11.38-beta-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/moddev/artifacts/neoforge-21.11.38-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/moddev/artifacts/neoforge-21.11.38-beta-client-extra-aka-minecraft-resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NeoForge/1.21.1/build/moddev/artifacts/neoforge-21.11.38-beta-merged.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

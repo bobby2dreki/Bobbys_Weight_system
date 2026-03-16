@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="17.0.0-beta.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/com/terraformersmc/modmenu-4b5d3c0a/17.0.0-beta.2/modmenu-4b5d3c0a-17.0.0-beta.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/com/terraformersmc/modmenu-4b5d3c0a/17.0.0-beta.2/modmenu-4b5d3c0a-17.0.0-beta.2-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

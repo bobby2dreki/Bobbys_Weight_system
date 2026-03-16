@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="2.0.0+6fc22b9990">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_1010942874_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.0+6fc22b9990/fabric-gametest-api-v1-2.0.0+6fc22b9990.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi loader/1.21.x/.gradle/loom-cache/remapped_mods/loom_mappings_1_21_layered_hash_1010942874_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.0+6fc22b9990/fabric-gametest-api-v1-2.0.0+6fc22b9990-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

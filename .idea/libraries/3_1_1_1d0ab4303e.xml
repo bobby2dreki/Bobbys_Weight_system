@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="3.1.1+1d0ab4303e">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-4b5d3c0a-common/3.1.1+1d0ab4303e/fabric-entity-events-v1-4b5d3c0a-common-3.1.1+1d0ab4303e-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-4b5d3c0a-common/3.1.1+1d0ab4303e/fabric-entity-events-v1-4b5d3c0a-common-3.1.1+1d0ab4303e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

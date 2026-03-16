@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="8.2.3+4ebb5c083e2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-4b5d3c0a-common/8.2.3+4ebb5c083e/fabric-recipe-api-v1-4b5d3c0a-common-8.2.3+4ebb5c083e-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric/1-21-11/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-4b5d3c0a-common/8.2.3+4ebb5c083e/fabric-recipe-api-v1-4b5d3c0a-common-8.2.3+4ebb5c083e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
