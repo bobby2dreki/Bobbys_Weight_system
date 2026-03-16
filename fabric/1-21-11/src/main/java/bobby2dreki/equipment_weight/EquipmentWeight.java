@@ -47,6 +47,9 @@ public class EquipmentWeight implements ModInitializer {
 		syncScore(scoreboard, "strength", config.globalStrength, "Strength", fakePlayer);
 		syncScore(scoreboard, "training", config.training ? 1 : 0, "Training", fakePlayer);
 		syncScore(scoreboard, "training_threshold", config.trainingThreshold, "Training Threshold", fakePlayer);
+		syncScore(scoreboard, "exhaustion", config.exhaustion ? 1 : 0, "Exhaustion", fakePlayer);
+		syncScore(scoreboard, "training_bar", config.trainingBar, "Training Bar Style", fakePlayer);
+		syncScore(scoreboard, "fatigue_threshold", config.fatigueThreshold, "Fatigue Threshold", fakePlayer);
 	}
 
 	private static void syncScore(

@@ -11,9 +11,18 @@ scoreboard objectives add training_progress dummy
 scoreboard objectives add training_gain dummy
 scoreboard objectives add training_threshold dummy
 scoreboard objectives add training_ratio dummy
+scoreboard objectives add training_bar dummy
+scoreboard objectives add exhaustion dummy
+scoreboard objectives add awake_time dummy
+scoreboard objectives add fatigue dummy
+scoreboard objectives add fatigue_message dummy
+scoreboard objectives add fatigue_threshold dummy
 execute unless score #global training matches 0.. run scoreboard players set #global training 1
 execute unless score #global strength matches 0.. run scoreboard players set #global strength 10
 execute unless score #global training_threshold matches 0.. run scoreboard players set #global training_threshold 10
+execute unless score #global training_bar matches 0.. run scoreboard players set #global training_bar 1
+execute unless score #global exhaustion matches 0.. run scoreboard players set #global exhaustion 1
+execute unless score #global fatigue_threshold matches 0.. run scoreboard players set #global fatigue_threshold 3000
 scoreboard players set #global weight_timer 90
 scoreboard players set #w2 weight_multi 2
 scoreboard players set #w3 weight_multi 3

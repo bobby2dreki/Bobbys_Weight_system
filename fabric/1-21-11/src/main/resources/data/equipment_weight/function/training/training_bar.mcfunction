@@ -1,0 +1,10 @@
+execute as @a if score #global training_bar matches 1 run function equipment_weight:training/bar/actionbar1
+execute as @a if score #global training_bar matches 2 run function equipment_weight:training/bar/actionbar2
+execute as @a if score #global training_bar matches 3 run function equipment_weight:training/bar/actionbar3
+execute as @a if score #global training_bar matches 4 run function equipment_weight:training/bar/actionbar4
+execute as @a if score #global training_bar matches 5 run function equipment_weight:training/bar/actionbar5
+execute as @a if score @s training_bar matches 1 run function equipment_weight:training/bar/actionbar1
+execute as @a if score @s training_bar matches 2 run function equipment_weight:training/bar/actionbar2
+execute as @a if score @s training_bar matches 3 run function equipment_weight:training/bar/actionbar3
+execute as @a if score @s training_bar matches 4 run function equipment_weight:training/bar/actionbar4
+execute as @a if score @s training_bar matches 5 run function equipment_weight:training/bar/actionbar5
